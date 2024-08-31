@@ -1,0 +1,10 @@
+C
+8
+a[bc]t
+swap!
+st!ar
+pl?ay
+rever
+crazy[ck]
+lo!ve
+p?ast
